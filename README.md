@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sibtain Raza Khan</h1>
-<h3 align="center">A passionate fullstack developer from India!</h3>
+<h1 align="center">Hi 👋, I'm Sibtain Raza</h1>
+<h3 align="center">A passionate Developer from India!</h3>
 
 - 🔭 I’m currently working on **Generating Apps and websites**
 
-- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **msrkofficial@gmail.com**
 
