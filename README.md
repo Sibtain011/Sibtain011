@@ -7,9 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-  📞 <a href="tel:+917895964830">+91 7895964830</a>
-</p>
-<p>
   🔗 <a href="https://www.linkedin.com/in/srk2002/" target="_blank">
     LinkedIn Profile
   </a>
