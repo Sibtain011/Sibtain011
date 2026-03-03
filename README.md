@@ -6,7 +6,9 @@
 - 📫 How to reach me **msrkofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-mobi:7895964830
+<p>
+  📞 <a href="tel:+917895964830">+91 7895964830</a>
+</p>
 <p align="left">
 </p>
 
