@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sibtain Raza</h1>
 <h3 align="center">A passionate Developer from India!</h3>
 
-- 🔭 I’m currently working on **Generating websites**
+- 🔭 I’m currently working on **Creating websites**
 
 - 📫 How to reach me **msrkofficial@gmail.com**
 
