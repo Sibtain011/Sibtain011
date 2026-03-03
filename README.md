@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sibtain Raza</h1>
-<h3 align="center">A passionate Developer from India!</h3>
+<h1 align="center">Hi 👋, I'm Sibtain Raza Khan</h1>
+<h3 align="center">A Developer from India!</h3>
 
 - 🔭 I’m currently working on **Creating websites**
 
